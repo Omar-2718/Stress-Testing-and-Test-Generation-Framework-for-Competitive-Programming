@@ -16,7 +16,7 @@ This framework offers an easy, fast, and modular approach to create **random tes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/stress-test-framework.git
+   git clone https://github.com/Omar-2718/Stress-Testing-and-Test-Generation-Framework-for-Competitive-Programming.git
    cd stress-test-framework
    ```
 
