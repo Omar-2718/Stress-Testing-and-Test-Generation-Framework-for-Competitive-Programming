@@ -1,0 +1,2 @@
+int n -r 1 100 , double k -r -1e9 1e9
+for n -d -r -1e9 1e9

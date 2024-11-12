@@ -1,0 +1,2 @@
+int n -r 1 10 , int m -r 1 10
+matrix x -n n -m m -r -10 10
