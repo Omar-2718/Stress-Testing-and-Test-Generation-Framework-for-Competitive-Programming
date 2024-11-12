@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stress Testing and Test Generation Framework for Competitive Programming
 
 A powerful tool for **automated test generation** and **stress testing** for competitive programming.
@@ -16,7 +17,7 @@ This framework offers an easy, fast, and modular approach to create **random tes
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Omar-2718/Stress-Testing-and-Test-Generation-Framework-for-Competitive-Programming.git
+   git clone https://github.com/username/stress-test-framework.git
    cd stress-test-framework
    ```
 
@@ -126,3 +127,4 @@ This project is licensed under the MIT License.
 =======
 # Stress-Testing-and-Test-Generation-Framework-for-Competitive-Programming
 A powerful tool for automated test generation and stress testing for competitive programming.
+>>>>>>> 252664ac7101c3537de1623ecfb413b404330fb9
