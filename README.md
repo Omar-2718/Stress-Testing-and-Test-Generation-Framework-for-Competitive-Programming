@@ -123,6 +123,3 @@ Feel free to open issues or pull requests for bug fixes, new features, or improv
 ## 📄 License
 
 This project is licensed under the MIT License.
-=======
-# Stress-Testing-and-Test-Generation-Framework-for-Competitive-Programming
-A powerful tool for automated test generation and stress testing for competitive programming.
